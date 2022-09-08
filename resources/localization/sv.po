@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-09 09:04+0100\n"
-"PO-Revision-Date: 2022-07-23 02:01+0200\n"
+"PO-Revision-Date: 2022-09-07 20:51+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: sv\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.1.1\n"
-"X-Poedit-Bookmarks: 419,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-Bookmarks: 1549,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
 #: src/slic3r/GUI/AboutDialog.cpp:45 src/slic3r/GUI/AboutDialog.cpp:303
 msgid "Portions copyright"
@@ -1159,7 +1159,7 @@ msgstr "Välj alla standardskrivare"
 
 #: src/slic3r/GUI/ConfigWizard.cpp:2861
 msgid "< &Back"
-msgstr "< &Tillbaka"
+msgstr "< Tillbaka"
 
 #: src/slic3r/GUI/ConfigWizard.cpp:2862
 msgid "&Next >"
@@ -1167,7 +1167,7 @@ msgstr "&Nästa >"
 
 #: src/slic3r/GUI/ConfigWizard.cpp:2863
 msgid "&Finish"
-msgstr "&Avsluta"
+msgstr "Avsluta"
 
 #: src/slic3r/GUI/ConfigWizard.cpp:2864
 #: src/slic3r/GUI/DesktopIntegrationDialog.cpp:490
@@ -1214,7 +1214,7 @@ msgstr "Konfigurationsguide"
 
 #: src/slic3r/GUI/ConfigWizard.cpp:3040
 msgid "Configuration &Wizard"
-msgstr "Konfigurations &Guide"
+msgstr "Konfigurations Guide"
 
 #: src/slic3r/GUI/DesktopIntegrationDialog.cpp:232
 msgid ""
@@ -2296,7 +2296,7 @@ msgstr "Håll min"
 
 #: src/slic3r/GUI/GLCanvas3D.cpp:295 src/slic3r/GUI/GLCanvas3D.cpp:4056
 msgid "Reset"
-msgstr "Reset"
+msgstr ""
 
 #: src/slic3r/GUI/GLCanvas3D.cpp:561
 msgid "Variable layer height - Manual edit"
@@ -2320,7 +2320,7 @@ msgstr "Variabel lagerhöjd - Släta ut allt"
 
 #: src/slic3r/GUI/GLCanvas3D.cpp:1684
 msgid "Mirror Object"
-msgstr "Spegelobjekt"
+msgstr "Spegla objekt"
 
 #: src/slic3r/GUI/GLCanvas3D.cpp:2557
 #: src/slic3r/GUI/Gizmos/GLGizmosManager.cpp:560
@@ -2346,15 +2346,15 @@ msgstr "Fliken Utskriftsinställningar"
 
 #: src/slic3r/GUI/GLCanvas3D.cpp:3768 src/slic3r/GUI/GLCanvas3D.cpp:4589
 msgid "Filament Settings Tab"
-msgstr "Filament inställningsflik"
+msgstr "Fliken Filamentinställningar"
 
 #: src/slic3r/GUI/GLCanvas3D.cpp:3768 src/slic3r/GUI/GLCanvas3D.cpp:4589
 msgid "Material Settings Tab"
-msgstr "Material inställningsflik"
+msgstr "Fliken Materialinställningar"
 
 #: src/slic3r/GUI/GLCanvas3D.cpp:3769 src/slic3r/GUI/GLCanvas3D.cpp:4590
 msgid "Printer Settings Tab"
-msgstr "Skrivare inställningsflik"
+msgstr "Fliken Skrivarinställningar"
 
 #: src/slic3r/GUI/GLCanvas3D.cpp:3916
 msgid "Undo History"
@@ -2442,7 +2442,7 @@ msgstr "Lägg till instans"
 
 #: src/slic3r/GUI/GLCanvas3D.cpp:4552 src/slic3r/GUI/GUI_Factories.cpp:1087
 msgid "Remove instance"
-msgstr "Radera instans"
+msgstr "Ta bort instans"
 
 #: src/slic3r/GUI/GLCanvas3D.cpp:4565
 msgid "Split to objects"
@@ -2501,7 +2501,7 @@ msgstr "Urval-Lägg till från rektangel"
 
 #: src/slic3r/GUI/GLCanvas3D.cpp:6461
 msgid "Selection-Remove from rectangle"
-msgstr "Markering-Radera från rektangeln"
+msgstr "Urval-Radera från rektangeln"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoCut.cpp:50
 #: src/slic3r/GUI/Gizmos/GLGizmoCut.cpp:160 src/libslic3r/PrintConfig.cpp:4326
@@ -2518,15 +2518,15 @@ msgstr "i"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoCut.cpp:194
 msgid "Keep upper part"
-msgstr "Behåll övre delen"
+msgstr "Behåll övre del"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoCut.cpp:195
 msgid "Keep lower part"
-msgstr "Behåll nedre delen"
+msgstr "Behåll nedre del"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoCut.cpp:196
 msgid "Rotate lower part upwards"
-msgstr "Vrid den nedre delen uppåt"
+msgstr "Rotera den nedre delen uppåt"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoCut.cpp:201
 msgid "Perform cut"
@@ -2584,7 +2584,7 @@ msgstr "Höger musknapp"
 #: src/slic3r/GUI/Gizmos/GLGizmoFdmSupports.cpp:49
 #: src/slic3r/GUI/Gizmos/GLGizmoFdmSupports.cpp:434
 msgid "Block supports"
-msgstr "Blockstöd"
+msgstr "Blockera stöd"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoFdmSupports.cpp:50
 #: src/slic3r/GUI/Gizmos/GLGizmoMmuSegmentation.cpp:119
@@ -2698,7 +2698,7 @@ msgstr "Målar alla fasetter inuti, oavsett orientering."
 #: src/slic3r/GUI/Gizmos/GLGizmoMmuSegmentation.cpp:428
 #: src/slic3r/GUI/Gizmos/GLGizmoSeam.cpp:152
 msgid "Ignores facets facing away from the camera."
-msgstr "Ignorerar aspekter som är vända bort från kameran."
+msgstr "Ignorerar fasetter som är vända bort från kameran."
 
 #: src/slic3r/GUI/Gizmos/GLGizmoFdmSupports.cpp:262
 #: src/slic3r/GUI/Gizmos/GLGizmoMmuSegmentation.cpp:437
@@ -2711,7 +2711,7 @@ msgstr "Målar bara en fasett."
 #: src/slic3r/GUI/Gizmos/GLGizmoMmuSegmentation.cpp:462
 #: src/slic3r/GUI/Gizmos/GLGizmoSeam.cpp:132
 msgid "Alt + Mouse wheel"
-msgstr "Alt + mushjul"
+msgstr "Alt + Mushjul"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoFdmSupports.cpp:275
 msgid "Splits bigger facets into smaller ones while the object is painted."
@@ -2721,7 +2721,7 @@ msgstr "Delar upp större fasetter i mindre medan objektet målas."
 #: src/slic3r/GUI/Gizmos/GLGizmoMmuSegmentation.cpp:483
 #: src/slic3r/GUI/Gizmos/GLGizmoSeam.cpp:170
 msgid "Ctrl + Mouse wheel"
-msgstr "Ctrl + mushjul"
+msgstr "Ctrl + Mushjul"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoFdmSupports.cpp:313
 #: src/slic3r/GUI/Gizmos/GLGizmoMmuSegmentation.cpp:488
@@ -2731,7 +2731,7 @@ msgstr "Återställ val"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoFdmSupports.cpp:364
 msgid "Block supports by angle"
-msgstr "Blockstöd i vinkel"
+msgstr "Blockera stöd i vinkel"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoFdmSupports.cpp:365
 msgid "Add supports by angle"
@@ -2898,7 +2898,7 @@ msgstr "Framtvinga söm"
 #: src/slic3r/GUI/Gizmos/GLGizmoSeam.cpp:38
 #: src/slic3r/GUI/Gizmos/GLGizmoSeam.cpp:255
 msgid "Block seam"
-msgstr "Blocksöm"
+msgstr "Blockera söm"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoSeam.cpp:52
 msgid "Seam painting"
@@ -2976,7 +2976,7 @@ msgstr "Visa trådram"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoSimplify.cpp:313
 msgid "Operation already cancelling. Please wait few seconds."
-msgstr "Åtgärden avbryts redan. Väligen vänta några sekunder."
+msgstr "Åtgärden är under avbrytning. Vänligen vänta några sekunder."
 
 #: src/slic3r/GUI/Gizmos/GLGizmoSimplify.cpp:322
 msgid "Can't apply when proccess preview."
@@ -3051,7 +3051,7 @@ msgstr "Ändra punkthuvudets diameter"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoSlaSupports.cpp:770
 msgid "Support parameter change"
-msgstr "Stöd-parameterändring"
+msgstr "Stöd parameterändring"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoSlaSupports.cpp:876
 msgid "SLA Support Points"
@@ -3105,7 +3105,7 @@ msgstr "Lägg till punkt"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoSlaSupports.cpp:1216
 msgid "Right click"
-msgstr "Högerklicka"
+msgstr "Högerklick"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoSlaSupports.cpp:1216
 msgid "Remove point"
@@ -3127,7 +3127,7 @@ msgstr "Lägg till punkt till urval"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoSlaSupports.cpp:1219
 msgid "Remove point from selection"
-msgstr "Radera punkt från markeringen"
+msgstr "Radera punkt från urval"
 
 #: src/slic3r/GUI/Gizmos/GLGizmoSlaSupports.cpp:1220
 msgid "Select by rectangle"
@@ -3194,8 +3194,8 @@ msgid ""
 "Most likely the configuration was produced by a newer version of PrusaSlicer "
 "or by some PrusaSlicer fork."
 msgstr ""
-"Troligtvis producerades konfigurationen av en nyare version av PrusaSlicer "
-"eller av någon PrusaSlicer-klon."
+"Troligtvis skapades konfigurationen av en nyare version av PrusaSlicer eller "
+"av någon PrusaSlicer-klon."
 
 #: src/slic3r/GUI/GUI.cpp:327
 msgid "The following values were substituted:"
@@ -3271,18 +3271,18 @@ msgid ""
 "What do you want to do now?"
 msgstr ""
 "Från och med %1% 2.3 har konfigurationskatalogen på Linux ändrats (enligt "
-"XDG Base Directory Specification) till\n"
+"XDG Base Directory Specifikation) till\n"
 "%2%.\n"
 "\n"
-"Denna katalog fanns inte ännu (kanske du kör den nya versionen för första "
-"gången).\n"
-"En gammal %1% konfigurationskatalog upptäcktes dock i\n"
+"Denna katalog existerade inte ännu (kanske du kör den nya versionen för "
+"första gången).\n"
+"Emellertid en gammal %1% konfigurationskatalog upptäcktes dock i\n"
 "%3%.\n"
 "\n"
-"Överväg att flytta innehållet i den gamla katalogen till den nya platsen för "
-"att komma åt dina profiler osv.\n"
+"Överväg att flytta innehållet i den gamla katalogen till den nya katalogen "
+"för att komma åt dina profiler osv.\n"
 "Observera att om du bestämmer dig för att nedgradera %1% i framtiden kommer "
-"den att använda den gamla platsen igen.\n"
+"den att använda den gamla katalogen igen.\n"
 "\n"
 "Vad vill du göra nu?"
 
@@ -3347,9 +3347,9 @@ msgid ""
 "manually delete the file to recover from the error. Your user profiles will "
 "not be affected."
 msgstr ""
-"Fel vid analys av PrusaSlicer-konfigurationsfilen, den är förmodligen "
-"skadad. Försök att ta bort filen manuellt för att återställa från felet. "
-"Dina användarprofiler kommer inte att påverkas."
+"Fel vid analys av PrusaSlicer-konfigurationsfil, den är förmodligen skadad. "
+"Försök att ta bort filen manuellt för att återställa från felet. Dina "
+"användarprofiler kommer inte att påverkas."
 
 #: src/slic3r/GUI/GUI_App.cpp:913 src/slic3r/GUI/GUI_App.cpp:1011
 msgid ""
@@ -3375,9 +3375,9 @@ msgid ""
 "If so, your active configuration will be backed up before importing the new "
 "configuration."
 msgstr ""
-"Den aktiva konfigurationen skaes av <b>%1% %2%</b>,\n"
+"Den aktiva konfigurationen skapades av <b>%1% %2%</b>,\n"
 "medan en nyare konfiguration hittades i <b>%3%</b>\n"
-"ska av <b>%1% %4%</b>.\n"
+"skapad av <b>%1% %4%</b>.\n"
 "\n"
 "Ska den nyare konfigurationen importeras?\n"
 "Om så är fallet kommer din aktiva konfiguration att säkerhetskopieras innan "
@@ -3391,8 +3391,8 @@ msgid ""
 "\n"
 "Shall this configuration be imported?"
 msgstr ""
-"En befintlig konfiguration hittades i <b>%3%</b>\n"
-"ska av <b>%1% %2%</b>.\n"
+"En existerande konfiguration hittades i <b>%3%</b>\n"
+"skapad av <b>%1% %2%</b>.\n"
 "\n"
 "Ska den här konfigurationen importeras?"
 
@@ -3418,10 +3418,10 @@ msgid ""
 "Do you wish to continue?"
 msgstr ""
 "Du kör en 32-bitars version av PrusaSlicer på 64-bitars Windows.\n"
-"32-bitars build av PrusaSlicer kommer sannolikt inte att kunna använda allt "
-"RAM som finns tillgängligt i systemet.\n"
-"Ladda ner och installera en 64-bitars version av PrusaSlicer från https://"
-"www.prusa3d.cz/prusaslicer/.\n"
+"32-bitars versionen av PrusaSlicer kommer sannolikt inte att kunna använda "
+"allt RAM som finns tillgängligt i systemet.\n"
+"Vänligen ladda ner och installera en 64-bitars version av PrusaSlicer från "
+"https://www.prusa3d.cz/prusaslicer/.\n"
 "Vill du fortsätta?"
 
 #: src/slic3r/GUI/GUI_App.cpp:1134
@@ -3458,7 +3458,7 @@ msgstr "Ny förhandsversion %1% är tillgänglig."
 
 #: src/slic3r/GUI/GUI_App.cpp:1225
 msgid "See Releases page."
-msgstr "Se sidan Utgivningar."
+msgstr "Se sidan Versioner."
 
 #: src/slic3r/GUI/GUI_App.cpp:1262
 msgid "Preparing settings tabs"
@@ -3484,9 +3484,9 @@ msgid ""
 "To avoid this problem, consider disabling \"%4%\" in \"Preferences\". "
 "Otherwise, the application will most likely crash again next time."
 msgstr ""
-"PrusaSlicer kraschade förra gången när man försökte ställa in "
-"fönsterposition.\n"
-"Vi beklagar besväret, det händer tyvärr med vissa inställningar för flera "
+"PrusaSlicer kraschade förra gången när fönsterposition försökte ställas "
+"in .\n"
+"Vi beklagar besväret, det händer tyvärr med vissa inställningar för multipla "
 "bildskärmar.\n"
 "Mer exakt orsak till kraschen: \"%1%\".\n"
 "För mer information se vår GitHub-problemspårare: \"%2%\" och \"%3%\"\n"
@@ -3518,7 +3518,7 @@ msgid ""
 "Printer Settings anymore.\n"
 "Settings will be available in physical printers settings."
 msgstr ""
-"Men sedan denna version av PrusaSlicer visar vi inte längre denna "
+"Men efter denna version av PrusaSlicer visar vi inte längre denna "
 "information i skrivarinställningar.\n"
 "Inställningar kommer att vara tillgängliga i fysiska skrivarinställningar."
 
@@ -3583,7 +3583,7 @@ msgstr "Kör %s"
 
 #: src/slic3r/GUI/GUI_App.cpp:2238
 msgid "&Configuration Snapshots"
-msgstr "&Konfigurationsögonblicksbilder"
+msgstr "Konfigurationsögonblicksbilder"
 
 #: src/slic3r/GUI/GUI_App.cpp:2238
 msgid "Inspect / activate configuration snapshots"
@@ -3591,7 +3591,7 @@ msgstr "Inspektera / aktivera ögonblicksbilder av konfigurationen"
 
 #: src/slic3r/GUI/GUI_App.cpp:2239
 msgid "Take Configuration &Snapshot"
-msgstr "Ta Konfiguration &Ögonblicksbild"
+msgstr "Ta Konfiguration Ögonblicksbild"
 
 #: src/slic3r/GUI/GUI_App.cpp:2239
 msgid "Capture a configuration snapshot"
@@ -3607,11 +3607,11 @@ msgstr "Sök efter konfigurationsuppdateringar"
 
 #: src/slic3r/GUI/GUI_App.cpp:2247
 msgid "&Preferences"
-msgstr "&Inställningar"
+msgstr "Inställningar"
 
 #: src/slic3r/GUI/GUI_App.cpp:2253
 msgid "Application preferences"
-msgstr "Applikationspreferenser"
+msgstr "Applikationsinställningar"
 
 #: src/slic3r/GUI/GUI_App.cpp:2258 src/slic3r/GUI/wxExtensions.cpp:708
 msgid "Simple"
@@ -3649,7 +3649,7 @@ msgstr "%s Visningsläge"
 
 #: src/slic3r/GUI/GUI_App.cpp:2269
 msgid "&Language"
-msgstr "&Språk"
+msgstr "Språk"
 
 #: src/slic3r/GUI/GUI_App.cpp:2272
 msgid "Flash Printer &Firmware"
@@ -3703,7 +3703,7 @@ msgid ""
 "You will lose content of the plater."
 msgstr ""
 "Om du byter språk startar programmet om.\n"
-"Du kommer att förlora innehållet på bädden."
+"Innehållet på bädden kommer att förloras."
 
 #: src/slic3r/GUI/GUI_App.cpp:2391 src/slic3r/GUI/Preferences.cpp:582
 msgid "Do you want to proceed?"
@@ -3711,7 +3711,7 @@ msgstr "Vill du fortsätta?"
 
 #: src/slic3r/GUI/GUI_App.cpp:2418
 msgid "&Configuration"
-msgstr "&Konfiguration"
+msgstr "Konfiguration"
 
 #: src/slic3r/GUI/GUI_App.cpp:2535 src/slic3r/GUI/GUI_App.cpp:2596
 msgid "The preset modifications are successfully saved"
@@ -3758,11 +3758,11 @@ msgstr "Kontrollera din objektlista innan du ändrar förinställningar."
 
 #: src/slic3r/GUI/GUI_App.cpp:2894
 msgid "Configuration is editing from ConfigWizard"
-msgstr "Konfigurationen redigeras från konfigurationsguiden"
+msgstr "Konfigurationen redigeras från Konfigurationsguiden"
 
 #: src/slic3r/GUI/GUI_App.cpp:2919
 msgid "Select a gcode file:"
-msgstr "Välj en gkod-fil:"
+msgstr "Välj en gcode-fil:"
 
 #: src/slic3r/GUI/GUI_App.cpp:3093 src/slic3r/GUI/GUI_App.cpp:3116
 msgid "Open hyperlink in default browser?"
@@ -3778,7 +3778,7 @@ msgstr "Förhindra att hyperlänkar öppnas i webbläsaren"
 
 #: src/slic3r/GUI/GUI_App.cpp:3100 src/slic3r/GUI/Plater.cpp:1734
 msgid "PrusaSlicer will remember your choice."
-msgstr "PrusaSlicer kommer ihåg ditt val."
+msgstr "PrusaSlicer kommer minnas ditt val."
 
 #: src/slic3r/GUI/GUI_App.cpp:3101
 msgid "You will not be asked about it again on hyperlinks hovering."
@@ -3791,7 +3791,7 @@ msgid ""
 "Visit \"Preferences\" and check \"%1%\"\n"
 "to changes your choice."
 msgstr ""
-"Besök \"Inställningar\" och markera \"%1%\"\n"
+"Besök \"Inställningar\" och kolla upp \"%1%\"\n"
 "för att ändra ditt val."
 
 #: src/slic3r/GUI/GUI_App.cpp:3104 src/slic3r/GUI/Plater.cpp:1740
@@ -3922,7 +3922,7 @@ msgstr "Avancerad"
 #: src/libslic3r/PrintConfig.cpp:3579 src/libslic3r/PrintConfig.cpp:3590
 #: src/libslic3r/PrintConfig.cpp:3598
 msgid "Supports"
-msgstr "Stödjer"
+msgstr "Stöd"
 
 #: src/slic3r/GUI/GUI_Factories.cpp:141 src/slic3r/GUI/Plater.cpp:574
 #: src/slic3r/GUI/Tab.cpp:4687 src/slic3r/GUI/Tab.cpp:4688
@@ -3943,7 +3943,7 @@ msgstr "Vaddera"
 #: src/libslic3r/PrintConfig.cpp:3741 src/libslic3r/PrintConfig.cpp:3751
 #: src/libslic3r/PrintConfig.cpp:3760
 msgid "Hollowing"
-msgstr "Ihåliga"
+msgstr "Urholka"
 
 #: src/slic3r/GUI/GUI_Factories.cpp:160
 msgid "Add part"
@@ -3959,7 +3959,7 @@ msgstr "Lägg till modifierare"
 
 #: src/slic3r/GUI/GUI_Factories.cpp:163
 msgid "Add support blocker"
-msgstr "Lägg till supportblockerare"
+msgstr "Lägg till stödblockerare"
 
 #: src/slic3r/GUI/GUI_Factories.cpp:164
 msgid "Add support enforcer"
@@ -3973,7 +3973,7 @@ msgstr "Välj visningsinställningar"
 #: src/slic3r/GUI/GUI_Factories.cpp:556 src/slic3r/GUI/GUI_Factories.cpp:562
 #, c-format, boost-format
 msgid "Quick Add Settings (%s)"
-msgstr "Snabbläggsinställningar (%s)"
+msgstr "Snabbinläggsinställningar (%s)"
 
 #: src/slic3r/GUI/GUI_Factories.cpp:444
 msgid "Remove the selected object"
@@ -4018,7 +4018,7 @@ msgstr "Ställ in som ett separerat objekt"
 
 #: src/slic3r/GUI/GUI_Factories.cpp:648
 msgid "Set as a Separated Objects"
-msgstr "Ställ in som separerade objekt"
+msgstr "Ställ in som separerade objekts"
 
 #: src/slic3r/GUI/GUI_Factories.cpp:658
 msgid "Printable"
@@ -4050,7 +4050,7 @@ msgstr "Ersätt den valda volymen med ny STL"
 
 #: src/slic3r/GUI/GUI_Factories.cpp:740
 msgid "Set extruder for selected items"
-msgstr "Ställ in extruder för utvalda föremål"
+msgstr "Ställ in extruder för valda föremål"
 
 #: src/slic3r/GUI/GUI_Factories.cpp:778 src/slic3r/Utils/Repetier.cpp:126
 #: src/slic3r/Utils/Repetier.cpp:209 src/libslic3r/PrintConfig.cpp:612
@@ -4072,7 +4072,7 @@ msgstr "Konvertera från imperialistiska enheter"
 
 #: src/slic3r/GUI/GUI_Factories.cpp:836 src/slic3r/GUI/Plater.cpp:5619
 msgid "Revert conversion from imperial units"
-msgstr "Återställ konvertering från imperiala enheter"
+msgstr "Återställ konvertering från imperialistiska enheter"
 
 #: src/slic3r/GUI/GUI_Factories.cpp:837 src/slic3r/GUI/Plater.cpp:5620
 msgid "Convert from meters"
@@ -4089,7 +4089,7 @@ msgstr "Sammanfoga"
 
 #: src/slic3r/GUI/GUI_Factories.cpp:859
 msgid "Merge objects to the one multipart object"
-msgstr "Slå samman objekt med det ena flerdelade objektet"
+msgstr "Sammanfoga objekt med det ena flerdelade objektet"
 
 #: src/slic3r/GUI/GUI_Factories.cpp:878
 msgid "Along X axis"
@@ -4121,7 +4121,7 @@ msgstr "Spegla"
 
 #: src/slic3r/GUI/GUI_Factories.cpp:885
 msgid "Mirror the selected object"
-msgstr "Spegla det markerade objektet"
+msgstr "Spegla det valda objektet"
 
 #: src/slic3r/GUI/GUI_Factories.cpp:901 src/slic3r/GUI/GUI_ObjectList.cpp:1696
 msgid "Add Shape"
@@ -4154,11 +4154,11 @@ msgstr "Dela det markerade objektet"
 
 #: src/slic3r/GUI/GUI_Factories.cpp:1084
 msgid "Add one more instance of the selected object"
-msgstr "Lägg till ytterligare en instans av det markerade objektet"
+msgstr "Lägg till ytterligare en instans av det valda objektet"
 
 #: src/slic3r/GUI/GUI_Factories.cpp:1087
 msgid "Remove one instance of the selected object"
-msgstr "Radera en instans av det markerade objektet"
+msgstr "Radera en instans av det valda objektet"
 
 #: src/slic3r/GUI/GUI_Factories.cpp:1090
 msgid "Set number of instances"
@@ -4238,8 +4238,8 @@ msgstr[1] "%1$d fasetter borttagna"
 #, c-format, boost-format
 msgid "%1$d facet reversed"
 msgid_plural "%1$d facets reversed"
-msgstr[0] "%1$d fasett omvänd"
-msgstr[1] "%1$d fasetter omvända"
+msgstr[0] "%1$d fasett reverserad"
+msgstr[1] "%1$d fasetter reverserade"
 
 #: src/slic3r/GUI/GUI_ObjectList.cpp:423
 #, c-format, boost-format
@@ -4265,11 +4265,11 @@ msgstr "Högerklicka på ikonen för att fixa STL via Netfabb"
 
 #: src/slic3r/GUI/GUI_ObjectList.cpp:482
 msgid "Right button click the icon to change the object settings"
-msgstr "Högerklicka på ikonen för att ändra objektinställningarna"
+msgstr "Högerklicka på ikonen för att ändra objektets inställningar"
 
 #: src/slic3r/GUI/GUI_ObjectList.cpp:484
 msgid "Click the icon to change the object settings"
-msgstr "Klicka på ikonen för att ändra objektinställningarna"
+msgstr "Klicka på ikonen för att ändra objektets inställningar"
 
 #: src/slic3r/GUI/GUI_ObjectList.cpp:488
 msgid "Right button click the icon to change the object printable property"
@@ -4399,7 +4399,7 @@ msgstr "Radera höjdintervall"
 #: src/slic3r/GUI/GUI_ObjectList.cpp:1949
 msgid "From Object List You can't delete the last solid part from object."
 msgstr ""
-"Från objektlistan Du kan inte ta bort den sista solida delen från objektet."
+"Från objektlistan Du kan inte radera den sista solida delen från objektet."
 
 #: src/slic3r/GUI/GUI_ObjectList.cpp:1953
 msgid "Delete Subobject"
@@ -4407,7 +4407,7 @@ msgstr "Radera underobjekt"
 
 #: src/slic3r/GUI/GUI_ObjectList.cpp:1976
 msgid "Last instance of an object cannot be deleted."
-msgstr "Den sista instansen av ett objekt kan inte tas bort."
+msgstr "Sista instansen av ett objekt kan inte tas bort."
 
 #: src/slic3r/GUI/GUI_ObjectList.cpp:1980
 msgid "Delete Instance"
@@ -4494,7 +4494,7 @@ msgstr ""
 "Det går inte att infoga ett nytt lagerintervall efter det aktuella "
 "lagerintervallet.\n"
 "Nästa lagerintervall är för tunt för att delas upp i två\n"
-"utan att bryta mot den lägsta skikthöjden."
+"utan att bryta mot den lägsta lagerhöjden."
 
 #: src/slic3r/GUI/GUI_ObjectList.cpp:3108
 msgid ""
@@ -4523,7 +4523,7 @@ msgstr "Redigera höjdintervall"
 
 #: src/slic3r/GUI/GUI_ObjectList.cpp:3491
 msgid "Selection-Remove from list"
-msgstr "Markering-Radera från listan"
+msgstr "Urval-Radera från listan"
 
 #: src/slic3r/GUI/GUI_ObjectList.cpp:3503
 msgid "Selection-Add from list"
@@ -4591,7 +4591,7 @@ msgstr "Välj typ av del"
 
 #: src/slic3r/GUI/GUI_ObjectList.cpp:3786
 msgid "Change Part Type"
-msgstr "Ändra deltyp"
+msgstr "Ändra typ av del"
 
 #: src/slic3r/GUI/GUI_ObjectList.cpp:4019
 msgid "Enter new name"
@@ -4639,11 +4639,11 @@ msgstr "Ställ in utskrivbar grupp"
 
 #: src/slic3r/GUI/GUI_ObjectList.cpp:4407
 msgid "Set Unprintable group"
-msgstr "Ställ in grupp som inte kan skrivas ut"
+msgstr "Ställ in icke utskrivbar grupp"
 
 #: src/slic3r/GUI/GUI_ObjectList.cpp:4409
 msgid "Set Printable"
-msgstr "Ställ utskrivbar"
+msgstr "Ange utskrivbar"
 
 #: src/slic3r/GUI/GUI_ObjectList.cpp:4409
 msgid "Set Unprintable"
@@ -4655,7 +4655,7 @@ msgstr "Ställ in utskrivbar instans"
 
 #: src/slic3r/GUI/GUI_ObjectList.cpp:4410
 msgid "Set Unprintable Instance"
-msgstr "Ställ in oskrivbar instans"
+msgstr "Ställ in icke utskrivbar instans"
 
 #: src/slic3r/GUI/GUI_ObjectManipulation.cpp:55
 #: src/slic3r/GUI/GUI_ObjectManipulation.cpp:84
@@ -4841,7 +4841,7 @@ msgstr "Intern fyllning"
 #: src/libslic3r/ExtrusionEntity.cpp:348 src/libslic3r/PrintConfig.cpp:2342
 #: src/libslic3r/PrintConfig.cpp:2354
 msgid "Solid infill"
-msgstr "Fast fyllning"
+msgstr "Solid fyllning"
 
 #: src/slic3r/GUI/GUI_Preview.cpp:244 src/libslic3r/ExtrusionEntity.cpp:323
 #: src/libslic3r/ExtrusionEntity.cpp:350 src/libslic3r/PrintConfig.cpp:2839
@@ -4857,7 +4857,7 @@ msgstr "Brofyllning"
 #: src/slic3r/GUI/GUI_Preview.cpp:247 src/libslic3r/ExtrusionEntity.cpp:326
 #: src/libslic3r/ExtrusionEntity.cpp:356 src/libslic3r/PrintConfig.cpp:1302
 msgid "Gap fill"
-msgstr "Fyllning av lucka"
+msgstr "Gapfyllning"
 
 #: src/slic3r/GUI/GUI_Preview.cpp:248 src/libslic3r/ExtrusionEntity.cpp:327
 #: src/libslic3r/ExtrusionEntity.cpp:358
@@ -4885,7 +4885,7 @@ msgstr "Det skivade objektet \"%1%\" ser ut som en logotyp eller en skylt"
 
 #: src/slic3r/GUI/GUI_Preview.cpp:730
 msgid "Apply color change automatically"
-msgstr "Använd färgbyte automatiskt"
+msgstr "Tillämpa färgbyte automatiskt"
 
 #: src/slic3r/GUI/GUI_Preview.cpp:1058
 msgid "Shells"
@@ -4944,7 +4944,7 @@ msgstr "Arrangering avbruten."
 
 #: src/slic3r/GUI/Jobs/ArrangeJob.cpp:205
 msgid "Arranging done."
-msgstr "Arrangering klar."
+msgstr "Arrangering utförd."
 
 #: src/slic3r/GUI/Jobs/ArrangeJob.cpp:250
 #, c-format, boost-format
@@ -4953,7 +4953,8 @@ msgid ""
 "bed:\n"
 "%s"
 msgstr ""
-"Arrangemanget ignorerade följande objekt som inte får plats på en bädd:\n"
+"Arrangemanget ignorerade följande objekt som inte får plats på en singel "
+"bädd:\n"
 "%s"
 
 #: src/slic3r/GUI/Jobs/FillBedJob.cpp:123
@@ -4966,7 +4967,7 @@ msgstr "Bäddfyllning avbruten."
 
 #: src/slic3r/GUI/Jobs/FillBedJob.cpp:135
 msgid "Bed filling done."
-msgstr "Bäddfyllning klar."
+msgstr "Bäddfyllning utförd."
 
 #: src/slic3r/GUI/Jobs/Job.cpp:111
 msgid "ERROR: not enough resources to execute a new job."
@@ -5019,7 +5020,7 @@ msgstr "Orienteringssökning avbröts."
 
 #: src/slic3r/GUI/Jobs/RotoptimizeJob.cpp:78
 msgid "Orientation found."
-msgstr "Orientering hittades."
+msgstr "Orientering funnen."
 
 #: src/slic3r/GUI/Jobs/SLAImportJob.cpp:36
 msgid "Choose SLA archive:"
@@ -5062,7 +5063,7 @@ msgid ""
 "The SLA archive doesn't contain any presets. Please activate some SLA "
 "printer preset first before importing that SLA archive."
 msgstr ""
-"SLA-arkivet innehåller inga förinställningar. Vänligen aktivera några "
+"SLA-arkivet innehåller inga förinställningar. Vänligen aktivera någon/några "
 "förinställda SLA-skrivare först innan du importerar det SLA-arkivet."
 
 #: src/slic3r/GUI/Jobs/SLAImportJob.cpp:164
@@ -5095,11 +5096,11 @@ msgstr "Tangentbordsgenvägar"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:77
 msgid "New project, clear plater"
-msgstr "Nytt projekt, gör klar skiva"
+msgstr "Nytt projekt, gör bädden redo"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:78
 msgid "Open project STL/OBJ/AMF/3MF with config, clear plater"
-msgstr "Öppna projekt STL/OBJ/AMF/3MF med konfiguration, gör klar skiva"
+msgstr "Öppna projekt STL/OBJ/AMF/3MF med konfiguration, gör bädden redo"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:79
 msgid "Save project (3mf)"
@@ -5115,15 +5116,15 @@ msgstr "(Åter)skiva"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:83
 msgid "Import STL/OBJ/AMF/3MF without config, keep plater"
-msgstr "Importera STL/OBJ/AMF/3MF utan konfiguration, behåll skiva"
+msgstr "Importera STL/OBJ/AMF/3MF utan konfiguration, behåll bädd"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:84
 msgid "Import Config from ini/amf/3mf/gcode"
-msgstr "Importera konfiguration från ini/amf/3mf/gkod"
+msgstr "Importera konfiguration från ini/amf/3mf/gcode"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:85
 msgid "Load Config from ini/amf/3mf/gcode and merge"
-msgstr "Ladda konfiguration från ini/amf/3mf/gkod och sammanfoga"
+msgstr "Ladda konfiguration från ini/amf/3mf/gcode och sammanfoga"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:87 src/slic3r/GUI/Plater.cpp:912
 #: src/slic3r/GUI/Plater.cpp:6505 src/libslic3r/PrintConfig.cpp:4271
@@ -5132,7 +5133,7 @@ msgstr "Exportera G-kod"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:88 src/slic3r/GUI/Plater.cpp:6506
 msgid "Send G-code"
-msgstr "Skicka G-kod"
+msgstr "Sänd G-kod"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:89
 msgid "Export config"
@@ -5170,11 +5171,11 @@ msgstr "Klistra in från urklipp"
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:104
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:209
 msgid "Reload plater from disk"
-msgstr "Ladda om skivan från disk"
+msgstr "Ladda om bädden från disk"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:108
 msgid "Select Plater Tab"
-msgstr "Välj fliken skiva"
+msgstr "Välj fliken bädd"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:109
 msgid "Select Print Settings Tab"
@@ -5190,7 +5191,7 @@ msgstr "Välj fliken Skrivarinställningar"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:112
 msgid "Switch to 3D"
-msgstr "Byt till 3D"
+msgstr "Växla till 3D"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:113
 msgid "Switch to Preview"
@@ -5199,7 +5200,7 @@ msgstr "Växla till förhandsgranskning"
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:114
 #: src/slic3r/GUI/PrintHostDialogs.cpp:217
 msgid "Print host upload queue"
-msgstr "Skriv ut utskriftskö"
+msgstr "Värdskrivarens utskriftskö"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:115 src/slic3r/GUI/MainFrame.cpp:75
 msgid "Open new instance"
@@ -5260,7 +5261,7 @@ msgstr "Pil upp"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:139
 msgid "Move selection 10 mm in positive Y direction"
-msgstr "Flytta valet 10 mm i positiv Y-riktning"
+msgstr "Flytta urvalet 10 mm i positiv Y-riktning"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:140
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:218
@@ -5271,7 +5272,7 @@ msgstr "Pil ner"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:140
 msgid "Move selection 10 mm in negative Y direction"
-msgstr "Flytta markeringen 10 mm i negativ Y-riktning"
+msgstr "Flytta urvalet 10 mm i negativ Y-riktning"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:141
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:219
@@ -5282,7 +5283,7 @@ msgstr "Vänsterpil"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:141
 msgid "Move selection 10 mm in negative X direction"
-msgstr "Flytta markeringen 10 mm i negativ X-riktning"
+msgstr "Flytta urvalet 10 mm i negativ X-riktning"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:142
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:220
@@ -5293,7 +5294,7 @@ msgstr "Högerpil"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:142
 msgid "Move selection 10 mm in positive X direction"
-msgstr "Flytta valet 10 mm i positiv X-riktning"
+msgstr "Flytta urvalet 10 mm i positiv X-riktning"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:143
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:144
@@ -5424,15 +5425,15 @@ msgstr "Skivor"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:184
 msgid "All gizmos: Rotate - left mouse button; Pan - right mouse button"
-msgstr "Alla gismos: Rotera - vänster musknapp; Panorera - höger musknapp"
+msgstr "Alla gizmos: Rotera - vänster musknapp; Panorera - höger musknapp"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:185
 msgid "Gizmo move: Press to snap by 1mm"
-msgstr "Gizmo flyttning: Tryck för att plåta varje 1 mm"
+msgstr "Gizmo flyttning: Tryck för att knäppa med 1 mm"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:186
 msgid "Gizmo scale: Press to snap by 5%"
-msgstr "Gizmo skala: Tryck för att plåta var 5 %"
+msgstr "Gizmo skala: Tryck för att knäppa med 5 %"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:187
 msgid "Gizmo scale: Scale selection to fit print volume"
@@ -5461,7 +5462,7 @@ msgstr "Följande genvägar är tillämpliga när den angivna gizmon är aktiv"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:196
 msgid "Set selected items as Printable/Unprintable"
-msgstr "Ställ in valda objekt som Utskrivbart/Ej utskrivbart"
+msgstr "Ställ in valda objekt som Utskrivbara/Ej utskrivbara"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:197
 msgid "Set default extruder for the selected items"
@@ -5483,7 +5484,7 @@ msgstr "Öppna en G-kodfil"
 #: src/slic3r/GUI/MainFrame.cpp:1356 src/slic3r/GUI/MainFrame.cpp:1523
 #: src/slic3r/GUI/MainFrame.cpp:1527
 msgid "Reload the plater from disk"
-msgstr "Ladda om skivan från disk"
+msgstr "Ladda om bädden från disk"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:217
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:221
@@ -5507,11 +5508,11 @@ msgstr "Horisontellt reglage - Flytta aktiv punkt åt höger"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:225
 msgid "On/Off one layer mode of the vertical slider"
-msgstr "På/Av ett lager läge för det vertikala skjutreglaget"
+msgstr "På/Av En-lagers-läge för det vertikala skjutreglaget"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:226
 msgid "Show/Hide Legend and Estimated printing time"
-msgstr "Visa/dölj förklaring och beräknad utskriftstid"
+msgstr "Visa/dölj Förklaring och beräknad utskriftstid"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:227
 msgid "Show/Hide G-code window"
@@ -5554,7 +5555,7 @@ msgid ""
 "Press to speed up 5 times while moving thumb\n"
 "with arrow keys or mouse wheel"
 msgstr ""
-"Tryck för att snabba upp 5 gånger medan du flyttar punkt\n"
+"Tryck för att öka farten 5 gånger medan du flyttar punkt\n"
 "med piltangenter eller mushjul"
 
 #: src/slic3r/GUI/KBShortcutsDialog.cpp:243
@@ -5612,7 +5613,7 @@ msgstr "G-kod förhandsvisning"
 
 #: src/slic3r/GUI/MainFrame.cpp:78 src/slic3r/GUI/MainFrame.cpp:1301
 msgid "Open G-code viewer"
-msgstr "Öppna G-kodvisare"
+msgstr "Öppna G-kod visare"
 
 #: src/slic3r/GUI/MainFrame.cpp:89 src/slic3r/GUI/MainFrame.cpp:1534
 msgid "Open PrusaSlicer"
@@ -5620,7 +5621,7 @@ msgstr "Öppna PrusaSlicer"
 
 #: src/slic3r/GUI/MainFrame.cpp:91
 msgid "Open new G-code viewer"
-msgstr "Öppna en ny G-kodvisare"
+msgstr "Öppna en ny G-kod visare"
 
 #: src/slic3r/GUI/MainFrame.cpp:225
 msgid "Closing PrusaSlicer. Current project is modified."
@@ -5632,7 +5633,7 @@ msgstr "PrusaSlicer stänger"
 
 #: src/slic3r/GUI/MainFrame.cpp:232
 msgid "Closing PrusaSlicer while some presets are modified."
-msgstr "Stänger PrusaSlicer medan vissa förinställningar ändras."
+msgstr "Stänger PrusaSlicer medan vissa förinställningar ändrats."
 
 #: src/slic3r/GUI/MainFrame.cpp:285 src/slic3r/GUI/MainFrame.cpp:335
 #: src/slic3r/GUI/Tab.hpp:427 src/slic3r/GUI/Tab.hpp:550
@@ -5659,7 +5660,7 @@ msgstr "Skrivarinställningar"
 #: src/slic3r/GUI/MainFrame.cpp:632 src/slic3r/GUI/Plater.cpp:1721
 #: src/slic3r/GUI/Plater.cpp:2830
 msgid "Untitled"
-msgstr "Odöpt"
+msgstr "Ej namngiven"
 
 #: src/slic3r/GUI/MainFrame.cpp:655
 msgid "based on Slic3r"
@@ -5667,7 +5668,7 @@ msgstr "baserat på PrusaSlicer"
 
 #: src/slic3r/GUI/MainFrame.cpp:1070
 msgid "Prusa 3D &Drivers"
-msgstr "Prusa 3D & drivrutiner"
+msgstr "Prusa 3D &drivrutiner"
 
 #: src/slic3r/GUI/MainFrame.cpp:1070
 msgid "Open the Prusa3D drivers download page in your browser"
@@ -5675,16 +5676,16 @@ msgstr "Öppna nedladdningssidan för Prusa3D-drivrutiner i din webbläsare"
 
 #: src/slic3r/GUI/MainFrame.cpp:1072
 msgid "Software &Releases"
-msgstr "Programvara & Utgåvor"
+msgstr "Programvara Utgåvor"
 
 #: src/slic3r/GUI/MainFrame.cpp:1072
 msgid "Open the software releases page in your browser"
-msgstr "Öppna sidan med programversioner i din webbläsare"
+msgstr "Öppna sidan med programutgåvor i din webbläsare"
 
 #: src/slic3r/GUI/MainFrame.cpp:1078
 #, c-format, boost-format
 msgid "%s &Website"
-msgstr "%s &Hemsida"
+msgstr "%s Hemsida"
 
 #: src/slic3r/GUI/MainFrame.cpp:1079
 #, c-format, boost-format
@@ -5693,7 +5694,7 @@ msgstr "Öppna hemsidan %s i din webbläsare"
 
 #: src/slic3r/GUI/MainFrame.cpp:1085
 msgid "System &Info"
-msgstr "Systeminformation"
+msgstr "System&information"
 
 #: src/slic3r/GUI/MainFrame.cpp:1085
 msgid "Show system information"
@@ -5719,7 +5720,7 @@ msgstr "Rapportera ett problem på %s"
 #: src/slic3r/GUI/MainFrame.cpp:1092 src/slic3r/GUI/MainFrame.cpp:1095
 #, c-format, boost-format
 msgid "&About %s"
-msgstr "&Om %s"
+msgstr "Om %s"
 
 #: src/slic3r/GUI/MainFrame.cpp:1092 src/slic3r/GUI/MainFrame.cpp:1095
 msgid "Show about dialog"
@@ -5814,7 +5815,7 @@ msgstr "Starta ett nytt projekt"
 
 #: src/slic3r/GUI/MainFrame.cpp:1145
 msgid "&Open Project"
-msgstr "&Öppna projekt"
+msgstr "Öppna projekt"
 
 #: src/slic3r/GUI/MainFrame.cpp:1145
 msgid "Open a project file"
@@ -5842,7 +5843,7 @@ msgstr "Spara aktuell projektfil"
 
 #: src/slic3r/GUI/MainFrame.cpp:1191 src/slic3r/GUI/MainFrame.cpp:1193
 msgid "Save Project &as"
-msgstr "Spara projekt &som"
+msgstr "Spara projekt som"
 
 #: src/slic3r/GUI/MainFrame.cpp:1191 src/slic3r/GUI/MainFrame.cpp:1193
 msgid "Save current project file as"
@@ -5858,7 +5859,7 @@ msgstr "Ladda en modell"
 
 #: src/slic3r/GUI/MainFrame.cpp:1205
 msgid "Import STL (Imperial Units)"
-msgstr "Importera STL (Imperial Units)"
+msgstr "Importera STL (Imperialistiska enheter)"
 
 #: src/slic3r/GUI/MainFrame.cpp:1205
 msgid "Load an model saved with imperial units"
@@ -5874,7 +5875,7 @@ msgstr "Ladda ett SL1 / Sl1S-arkiv"
 
 #: src/slic3r/GUI/MainFrame.cpp:1214
 msgid "Import &Config"
-msgstr "Importera &Konfig"
+msgstr "Importera Konfig"
 
 #: src/slic3r/GUI/MainFrame.cpp:1214
 msgid "Load exported configuration file"
@@ -5890,7 +5891,7 @@ msgstr "Ladda konfiguration från projektfil"
 
 #: src/slic3r/GUI/MainFrame.cpp:1221
 msgid "Import Config &Bundle"
-msgstr "Importera konfiguration &paket"
+msgstr "Importera konfiguration paket"
 
 #: src/slic3r/GUI/MainFrame.cpp:1221
 msgid "Load presets from a bundle"
@@ -5906,15 +5907,15 @@ msgstr "Exportera &G-kod"
 
 #: src/slic3r/GUI/MainFrame.cpp:1227
 msgid "Export current plate as G-code"
-msgstr "Exportera aktuell skiva som G-kod"
+msgstr "Exportera aktuell bädd som G-kod"
 
 #: src/slic3r/GUI/MainFrame.cpp:1231 src/slic3r/GUI/MainFrame.cpp:1580
 msgid "S&end G-code"
-msgstr "Skicka G-kod"
+msgstr "S&kicka G-kod"
 
 #: src/slic3r/GUI/MainFrame.cpp:1231
 msgid "Send to print current plate as G-code"
-msgstr "Skicka innehållet på skivan för utskrift som G-kod"
+msgstr "Skicka innehållet på bädden för utskrift som G-kod"
 
 #: src/slic3r/GUI/MainFrame.cpp:1235
 msgid "Export G-code to SD Card / Flash Drive"
@@ -5922,27 +5923,27 @@ msgstr "Exportera G-kod till SD-kort / Flash-enhet"
 
 #: src/slic3r/GUI/MainFrame.cpp:1235
 msgid "Export current plate as G-code to SD card / Flash drive"
-msgstr "Exportera aktuell platta som G-kod till SD-kort / Flash-enhet"
+msgstr "Exportera aktuell bädd som G-kod till SD-kort / Flash-enhet"
 
 #: src/slic3r/GUI/MainFrame.cpp:1239
 msgid "Export Plate as &STL"
-msgstr "Exportera plattan som &STL"
+msgstr "Exportera bädden som &STL"
 
 #: src/slic3r/GUI/MainFrame.cpp:1239
 msgid "Export current plate as STL"
-msgstr "Exportera aktuell platta som STL"
+msgstr "Exportera aktuell bädd som STL"
 
 #: src/slic3r/GUI/MainFrame.cpp:1242
 msgid "Export Plate as STL &Including Supports"
-msgstr "Exportera plattan som STL & Inklusive stöd"
+msgstr "Exportera bädden som STL &Inklusive stöd"
 
 #: src/slic3r/GUI/MainFrame.cpp:1242
 msgid "Export current plate as STL including supports"
-msgstr "Exportera aktuell plattan som STL inklusive stöd"
+msgstr "Exportera aktuell bädd som STL inklusive stöd"
 
 #: src/slic3r/GUI/MainFrame.cpp:1250 src/slic3r/GUI/MainFrame.cpp:1531
 msgid "Export &Toolpaths as OBJ"
-msgstr "Exportera &verktygsbanor som OBJ"
+msgstr "Exportera verktygsbanor som OBJ"
 
 #: src/slic3r/GUI/MainFrame.cpp:1250 src/slic3r/GUI/MainFrame.cpp:1531
 msgid "Export toolpaths as OBJ"
@@ -5950,7 +5951,7 @@ msgstr "Exportera verktygsbanor som OBJ"
 
 #: src/slic3r/GUI/MainFrame.cpp:1254
 msgid "Export &Config"
-msgstr "Exportera &Konfig"
+msgstr "Exportera Konfig"
 
 #: src/slic3r/GUI/MainFrame.cpp:1254
 msgid "Export current configuration to file"
@@ -5978,7 +5979,7 @@ msgstr "&Exportera"
 
 #: src/slic3r/GUI/MainFrame.cpp:1265
 msgid "Ejec&t SD Card / Flash Drive"
-msgstr "Mata ut SD-kort / Flash-enhet"
+msgstr "Ma&ta ut SD-kort / Flash-enhet"
 
 #: src/slic3r/GUI/MainFrame.cpp:1265
 msgid "Eject SD card / Flash drive after the G-code was exported to it."
@@ -6030,7 +6031,7 @@ msgstr "&G-kods förhandsgranskning"
 
 #: src/slic3r/GUI/MainFrame.cpp:1304 src/slic3r/GUI/MainFrame.cpp:1538
 msgid "&Quit"
-msgstr "&Avsluta"
+msgstr "Avsluta"
 
 #: src/slic3r/GUI/MainFrame.cpp:1304 src/slic3r/GUI/MainFrame.cpp:1538
 #, c-format, boost-format
@@ -6039,7 +6040,7 @@ msgstr "Avsluta %s"
 
 #: src/slic3r/GUI/MainFrame.cpp:1319
 msgid "&Select All"
-msgstr "Markera alla"
+msgstr "Markera allt"
 
 #: src/slic3r/GUI/MainFrame.cpp:1320
 msgid "Selects all objects"
@@ -6055,15 +6056,15 @@ msgstr "Avmarkerar alla objekt"
 
 #: src/slic3r/GUI/MainFrame.cpp:1326
 msgid "&Delete Selected"
-msgstr "&Radera markerade"
+msgstr "Radera markerade"
 
 #: src/slic3r/GUI/MainFrame.cpp:1327
 msgid "Deletes the current selection"
-msgstr "Raderar bort det aktuella valet"
+msgstr "Raderar aktuell markering"
 
 #: src/slic3r/GUI/MainFrame.cpp:1329
 msgid "Delete &All"
-msgstr "Radera allt"
+msgstr "Radera &allt"
 
 #: src/slic3r/GUI/MainFrame.cpp:1330
 msgid "Deletes all objects"
@@ -6071,15 +6072,15 @@ msgstr "Radera alla objekt"
 
 #: src/slic3r/GUI/MainFrame.cpp:1334
 msgid "&Undo"
-msgstr "&Ångra"
+msgstr "Ångra"
 
 #: src/slic3r/GUI/MainFrame.cpp:1337
 msgid "&Redo"
-msgstr "&Göra om"
+msgstr "Gör om"
 
 #: src/slic3r/GUI/MainFrame.cpp:1342
 msgid "&Copy"
-msgstr "&Kopiera"
+msgstr "Kopiera"
 
 #: src/slic3r/GUI/MainFrame.cpp:1343
 msgid "Copy selection to clipboard"
@@ -6087,7 +6088,7 @@ msgstr "Kopiera urval till urklipp"
 
 #: src/slic3r/GUI/MainFrame.cpp:1345
 msgid "&Paste"
-msgstr "&Klistra in"
+msgstr "Klistra in"
 
 #: src/slic3r/GUI/MainFrame.cpp:1346
 msgid "Paste clipboard"
@@ -6096,7 +6097,7 @@ msgstr "Klistra in urklipp"
 #: src/slic3r/GUI/MainFrame.cpp:1351 src/slic3r/GUI/MainFrame.cpp:1355
 #: src/slic3r/GUI/MainFrame.cpp:1522 src/slic3r/GUI/MainFrame.cpp:1526
 msgid "Re&load from Disk"
-msgstr "Ladda om från disk"
+msgstr "&Ladda om från disk"
 
 #: src/slic3r/GUI/MainFrame.cpp:1361
 msgid "Searc&h"
@@ -6108,11 +6109,11 @@ msgstr "Sök i inställningar"
 
 #: src/slic3r/GUI/MainFrame.cpp:1370
 msgid "&Plater Tab"
-msgstr "&Skivflik"
+msgstr "&Bäddflik"
 
 #: src/slic3r/GUI/MainFrame.cpp:1370
 msgid "Show the plater"
-msgstr "Visa skivan"
+msgstr "Visa bäddan"
 
 #: src/slic3r/GUI/MainFrame.cpp:1375
 msgid "P&rint Settings Tab"
@@ -6156,15 +6157,15 @@ msgstr "Visa förhandsvisningen av 3D-skivning"
 
 #: src/slic3r/GUI/MainFrame.cpp:1397
 msgid "Open the dialog to modify shape gallery"
-msgstr "Öppna dialogrutan för att modifiera formgalleriet"
+msgstr "Öppna dialogrutan till modifieringsformgalleriet"
 
 #: src/slic3r/GUI/MainFrame.cpp:1409
 msgid "Print &Host Upload Queue"
-msgstr "Skriv ut &värduppladdningskö"
+msgstr "Skrivarvärdens uppladdningskö"
 
 #: src/slic3r/GUI/MainFrame.cpp:1409
 msgid "Display the Print Host Upload Queue window"
-msgstr "Visa fönstret Skrivar- &värduppladdningskö"
+msgstr "Visa fönstret Skrivarvärdens uppladdningskö"
 
 #: src/slic3r/GUI/MainFrame.cpp:1413
 msgid "Open New Instance"
@@ -6181,7 +6182,7 @@ msgstr "Jämför förinställningar"
 
 #: src/slic3r/GUI/MainFrame.cpp:1427
 msgid "Show &Labels"
-msgstr "Visa &etiketter"
+msgstr "Visa etiketter"
 
 #: src/slic3r/GUI/MainFrame.cpp:1427
 msgid "Show object/instance labels in 3D scene"
@@ -6189,7 +6190,7 @@ msgstr "Visa objekt/instansetiketter i 3D-scen"
 
 #: src/slic3r/GUI/MainFrame.cpp:1430
 msgid "&Collapse Sidebar"
-msgstr "&Dölj sidofältet"
+msgstr "Dölj sidofältet"
 
 #: src/slic3r/GUI/MainFrame.cpp:1430 src/slic3r/GUI/Plater.cpp:2319
 msgid "Collapse sidebar"
@@ -6209,15 +6210,15 @@ msgstr "&Fil"
 
 #: src/slic3r/GUI/MainFrame.cpp:1451
 msgid "&Edit"
-msgstr "&Redigera"
+msgstr "Redigera"
 
 #: src/slic3r/GUI/MainFrame.cpp:1452
 msgid "&Window"
-msgstr "&Fönster"
+msgstr "Fönster"
 
 #: src/slic3r/GUI/MainFrame.cpp:1453 src/slic3r/GUI/MainFrame.cpp:1554
 msgid "&View"
-msgstr "&Se"
+msgstr "Se"
 
 #: src/slic3r/GUI/MainFrame.cpp:1456 src/slic3r/GUI/MainFrame.cpp:1557
 msgid "&Help"
@@ -6225,7 +6226,7 @@ msgstr "&Hjälp"
 
 #: src/slic3r/GUI/MainFrame.cpp:1518
 msgid "&Open G-code"
-msgstr "&Öppna G-kod"
+msgstr "Öppna G-kod"
 
 #: src/slic3r/GUI/MainFrame.cpp:1534
 msgid "Open &PrusaSlicer"
@@ -6233,15 +6234,15 @@ msgstr "Öppna &PrusaSlicer"
 
 #: src/slic3r/GUI/MainFrame.cpp:1579
 msgid "E&xport"
-msgstr "Exportera"
+msgstr "E&xportera"
 
 #: src/slic3r/GUI/MainFrame.cpp:1580
 msgid "S&end to print"
-msgstr "Skicka till utskrift"
+msgstr "Sänd till utskrift"
 
 #: src/slic3r/GUI/MainFrame.cpp:1582
 msgid "Mate&rial Settings Tab"
-msgstr "Fliken Materialinställningar"
+msgstr "Fliken Mate&rialinställningar"
 
 #: src/slic3r/GUI/MainFrame.cpp:1606
 msgid "Choose a file to slice (STL/OBJ/AMF/3MF/PRUSA):"
@@ -6261,7 +6262,7 @@ msgstr ") hittades inte."
 
 #: src/slic3r/GUI/MainFrame.cpp:1626
 msgid "File Not Found"
-msgstr "Filen hittades inte"
+msgstr "Filen inte funnen"
 
 #: src/slic3r/GUI/MainFrame.cpp:1661
 #, c-format, boost-format
@@ -6319,7 +6320,7 @@ msgstr "Reparera"
 
 #: src/slic3r/GUI/MainFrame.cpp:1761
 msgid "Save configuration as:"
-msgstr "Spara konfigurationen som:"
+msgstr "Spara konfiguration som:"
 
 #: src/slic3r/GUI/MainFrame.cpp:1778
 msgid "Loading of a configuration file"
@@ -6454,7 +6455,7 @@ msgstr "Skrivbordsintegrationen var framgångsrik."
 
 #: src/slic3r/GUI/NotificationManager.hpp:768
 msgid "Desktop integration failed."
-msgstr "Skrivbordsintegration en misslyckades."
+msgstr "Skrivbordsintegrationen misslyckades."
 
 #: src/slic3r/GUI/NotificationManager.hpp:770
 msgid "Undo desktop integration was successful."
@@ -6622,7 +6623,7 @@ msgstr ""
 
 #: src/slic3r/GUI/OpenGLManager.cpp:274
 msgid "Error loading shaders"
-msgstr "Det gick inte att läsa in shaders"
+msgstr "Det gick inte att ladda in shaders"
 
 #: src/slic3r/GUI/OptionsGroup.cpp:352
 msgctxt "Layers"
@@ -6683,8 +6684,8 @@ msgid ""
 "HTTPS CA file is optional. It is only needed if you use HTTPS with a self-"
 "signed certificate."
 msgstr ""
-"HTTPS CA-fil är valfri. Det behövs bara om du använder HTTPS med ett "
-"egensignerat certifikat."
+"HTTPS CA-fil är valfri. Det behövs bara om du använder HTTPS med ett själv-"
+"signerat certifikat."
 
 #: src/slic3r/GUI/PhysicalPrinterDialog.cpp:374
 msgid "Certificate files (*.crt, *.pem)|*.crt;*.pem|All files|*.*"
@@ -6800,7 +6801,7 @@ msgstr "Använt material (enhet)"
 
 #: src/slic3r/GUI/Plater.cpp:300
 msgid "Cost (money)"
-msgstr "Kostnad (pengar)"
+msgstr "Kostnad (valuta)"
 
 #: src/slic3r/GUI/Plater.cpp:301 src/slic3r/GUI/Plater.cpp:1339
 #: src/slic3r/GUI/Plater.cpp:1426
@@ -6998,7 +6999,8 @@ msgstr[1] ""
 #, boost-format
 msgid "Failed loading file \"%1%\" due to an invalid configuration."
 msgstr ""
-"Det gick inte att ladda filen \"%1%\" på grund av en ogiltig konfiguration."
+"Misslyckades med att ladda filen \"%1%\" på grund av en ogiltig "
+"konfiguration."
 
 #: src/slic3r/GUI/Plater.cpp:2548
 #, c-format, boost-format
@@ -7009,10 +7011,10 @@ msgid_plural ""
 "Objects size from file %s appears to be zero.\n"
 "These objects have been removed from the model"
 msgstr[0] ""
-"Objektstorleken från filen %s verkar vara noll.\n"
+"Objektets storleken från filen %s verkar vara noll.\n"
 "Detta objekt har tagits bort från modellen"
 msgstr[1] ""
-"Objektstorleken från filen %s verkar vara noll.\n"
+"Objektens storleken från filen %s verkar vara noll.\n"
 "Dessa objekt har tagits bort från modellen"
 
 #: src/slic3r/GUI/Plater.cpp:2552
@@ -7031,13 +7033,13 @@ msgid_plural ""
 "the dimensions of these objects?"
 msgstr[0] ""
 "Dimensionerna för objektet från filen %s verkar vara definierade i meter.\n"
-"Den interna enheten i PrusaSlicer är millimeter. Vill du räkna om objektets "
-"dimensioner?"
+"Den interna enheten i PrusaSlicer är millimeter. Vill du beräkna om "
+"objektets dimensioner?"
 msgstr[1] ""
 "Dimensionerna för en del av objekten från filen %s verkar vara definierade i "
 "meter.\n"
-"Den interna enheten i PrusaSlicer är millimeter. Vill du räkna om objektens "
-"dimensioner?"
+"Den interna enheten i PrusaSlicer är millimeter. Vill du beräkna om "
+"objektens dimensioner?"
 
 #: src/slic3r/GUI/Plater.cpp:2569 src/slic3r/GUI/Plater.cpp:2591
 msgid "The object is too small"
@@ -7059,13 +7061,13 @@ msgid_plural ""
 "the dimensions of these objects?"
 msgstr[0] ""
 "Dimensionerna för objektet från filen %s verkar vara definierade i tum.\n"
-"Den interna enheten i PrusaSlicer är millimeter. Vill du räkna om objektets "
-"dimensioner?"
+"Den interna enheten i PrusaSlicer är millimeter. Vill du beräkna om "
+"objektets dimensioner?"
 msgstr[1] ""
 "Dimensionerna för en del objekt från filen %s verkar vara definierade i "
 "tum.\n"
-"Den interna enheten i PrusaSlicer är millimeter. Vill du räkna om objektens "
-"dimensioner?"
+"Den interna enheten i PrusaSlicer är millimeter. Vill du beräkna om "
+"objektens dimensioner?"
 
 #: src/slic3r/GUI/Plater.cpp:2605
 msgid ""
@@ -7122,7 +7124,7 @@ msgstr ""
 
 #: src/slic3r/GUI/Plater.cpp:2780
 msgid "Object too large?"
-msgstr "För stort objekt?"
+msgstr "Objektet för stort?"
 
 #: src/slic3r/GUI/Plater.cpp:2858
 msgid "Export STL file:"
@@ -7157,11 +7159,12 @@ msgid ""
 "The selected object couldn't be split because it contains only one solid "
 "part."
 msgstr ""
-"Det valda objektet kunde inte delas eftersom det bara innehåller en fast del."
+"Det valda objektet kunde inte delas eftersom det bara innehåller en solid "
+"del."
 
 #: src/slic3r/GUI/Plater.cpp:3105
 msgid "All non-solid parts (modifiers) were deleted"
-msgstr "Alla icke-fasta delar (modifierare) raderades"
+msgstr "Alla icke-solida delar (modifierare) raderades"
 
 #: src/slic3r/GUI/Plater.cpp:3107
 msgid "Split to Objects"
@@ -7205,7 +7208,7 @@ msgstr "Välj den nya filen"
 
 #: src/slic3r/GUI/Plater.cpp:3541
 msgid "File for the replace wasn't selected"
-msgstr "Filen för ersättning valdes inte"
+msgstr "Filen för ersättningeg valdes inte"
 
 #: src/slic3r/GUI/Plater.cpp:3632
 msgid "Please select the file to reload"
@@ -7241,7 +7244,7 @@ msgstr "Ladda om allt från disken"
 
 #: src/slic3r/GUI/Plater.cpp:4108
 msgid "There are active warnings concerning sliced models:"
-msgstr "Det finns aktiva varningar om skivade modeller:"
+msgstr "Det finns aktiva varningar angående skivade modeller:"
 
 #: src/slic3r/GUI/Plater.cpp:4119
 msgid "generated warnings"
@@ -7308,11 +7311,11 @@ msgstr "Importera objekt"
 
 #: src/slic3r/GUI/Plater.cpp:5215
 msgid "does not contain valid gcode."
-msgstr "innehåller inte giltig gkod."
+msgstr "innehåller inte giltig gcode."
 
 #: src/slic3r/GUI/Plater.cpp:5216
 msgid "Error while loading .gcode file"
-msgstr "Det gick inte att läsa in .gkod-filen"
+msgstr "Det gick inte att läsa in .gcode-filen"
 
 #: src/slic3r/GUI/Plater.cpp:5269
 #, c-format, boost-format
@@ -7345,7 +7348,7 @@ msgstr "Visa inte igen"
 
 #: src/slic3r/GUI/Plater.cpp:5343
 msgid "You can open only one .gcode file at a time."
-msgstr "Du kan bara öppna en .gkod-fil åt gången."
+msgstr "Du kan bara öppna en .gcode-fil åt gången."
 
 #: src/slic3r/GUI/Plater.cpp:5344
 msgid "Drag and drop G-code file"
@@ -7413,7 +7416,7 @@ msgid ""
 "The plater is empty.\n"
 "Do you want to save the project?"
 msgstr ""
-"Plattan är tom.\n"
+"Bädden är tom.\n"
 "Vill du spara projektet?"
 
 #: src/slic3r/GUI/Plater.cpp:5917
@@ -7452,12 +7455,12 @@ msgid ""
 "If this is enabled, Slic3r will prompt the last output directory instead of "
 "the one containing the input files."
 msgstr ""
-"Om detta är aktiverat kommer PrusaSlicer att fråga den sista utdatakatalogen "
-"istället för den som innehåller indatafilerna."
+"Om detta är aktiverat kommer PrusaSlicer att fråga med den sista "
+"utdatakatalogen istället för den som innehåller indatafilerna."
 
 #: src/slic3r/GUI/Preferences.cpp:129
 msgid "Auto-center parts"
-msgstr "Autocentrerade delar"
+msgstr "Autocentrera delar"
 
 #: src/slic3r/GUI/Preferences.cpp:131
 msgid ""
@@ -7465,7 +7468,7 @@ msgid ""
 "center."
 msgstr ""
 "Om detta är aktiverat kommer PrusaSlicer att automatiskt centrera objekt "
-"runt utskriftsbäddens mitt."
+"runt utskriftsbäddens centrum."
 
 #: src/slic3r/GUI/Preferences.cpp:137
 msgid "Background processing"
@@ -7488,7 +7491,7 @@ msgid ""
 "If enabled, allows the Reload from disk command to automatically find and "
 "load the files when invoked."
 msgstr ""
-"Om  aktiverad tillåtes kommandot Ladda om från disk automatiskt hitta och "
+"Om aktiverad tillåtes kommandot Ladda om från disk automatiskt hitta och "
 "ladda filerna när det anropas."
 
 #: src/slic3r/GUI/Preferences.cpp:159
@@ -7551,7 +7554,7 @@ msgid ""
 "to load."
 msgstr ""
 "När det är markerat visas en dialogruta när du drar och släpper en "
-"projektfil i programmet, som ber dig välja vilken åtgärd som ska utföras på "
+"projektfil på programmet, som ber dig välja vilken åtgärd som ska utföras på "
 "filen som ska laddas."
 
 #: src/slic3r/GUI/Preferences.cpp:208 src/slic3r/GUI/Preferences.cpp:212
@@ -7575,7 +7578,7 @@ msgid ""
 "same PrusaSlicer is already running, that instance will be reactivated "
 "instead."
 msgstr ""
-"Om aktiverad,när du startar PrusaSlicer och en annan instans av samma "
+"Om aktiverad när du startar PrusaSlicer och en annan instans av samma "
 "PrusaSlicer redan körs, kommer den instansen att återaktiveras istället."
 
 #: src/slic3r/GUI/Preferences.cpp:224
@@ -7604,8 +7607,8 @@ msgid ""
 "- Loading a new project while some presets are modified"
 msgstr ""
 "Fråga alltid om ej sparade ändringar i förinställningar när;\n"
-"- PrusaSlicer stängs när förinställningar modifieras,\n"
-"- Laddar ett nytt projekt när förinställningar ändrats"
+"- PrusaSlicer stängs när förinställningar modifierats,\n"
+"- Laddar ett nytt projekt när förinställningar modifierats"
 
 #: src/slic3r/GUI/Preferences.cpp:242
 #: src/slic3r/GUI/UnsavedChangesDialog.cpp:896
@@ -7637,7 +7640,7 @@ msgstr ""
 
 #: src/slic3r/GUI/Preferences.cpp:258
 msgid "Associate .gcode files to PrusaSlicer G-code Viewer"
-msgstr "Associera .gkod-filer till PrusaSlicer G-kod visare"
+msgstr "Associera .gcode-filer till PrusaSlicer G-kod visare"
 
 #: src/slic3r/GUI/Preferences.cpp:260
 msgid ""
@@ -7645,7 +7648,7 @@ msgid ""
 "gcode files."
 msgstr ""
 "Om det är aktiverat ställer du in PrusaSlicer G-kod visare som "
-"standardprogram för att öppna .gkod-filer."
+"standardprogram för att öppna .gcode-filer."
 
 #: src/slic3r/GUI/Preferences.cpp:268
 msgid "Use Retina resolution for the 3D scene"
@@ -7667,7 +7670,7 @@ msgstr "Visa startbild"
 #: src/slic3r/GUI/Preferences.cpp:289
 msgid "If enabled, PrusaSlicer will be open at the position it was closed"
 msgstr ""
-"Om den är aktiverad kommer PrusaSlicer att öppnas i den position den stängdes"
+"Om det är aktiverat kommer PrusaSlicer att öppnas i den position den stängdes"
 
 #: src/slic3r/GUI/Preferences.cpp:295
 msgid "Clear Undo / Redo stack on new project"
@@ -7690,7 +7693,7 @@ msgid ""
 "pressing CTRL+M"
 msgstr ""
 "Om den är aktiverad är den äldre inställningsdialogrutan för 3DConnexion-"
-"enheter tillgänglig genom att utskrifta på CTRL+M"
+"enheter tillgänglig genom att trycka på CTRL+M"
 
 #: src/slic3r/GUI/Preferences.cpp:314
 msgid "Camera"
@@ -10880,7 +10883,7 @@ msgid ""
 "Picture sizes to be stored into a .gcode and .sl1 / .sl1s files, in the "
 "following format: \"XxY, XxY, ...\""
 msgstr ""
-"Bildstorlekar som ska lagras i en .gkod- och .sl1/.sl1s-filer, i följande "
+"Bildstorlekar som ska lagras i en .gcode- och .sl1/.sl1s-filer, i följande "
 "format: \"XxY, XxY, ...\""
 
 #: src/libslic3r/PrintConfig.cpp:265
@@ -11421,7 +11424,7 @@ msgid ""
 "in extruder order."
 msgstr ""
 "Denna slutprocedur infogas i slutet av utdatafilen, före skrivarens slut-"
-"gkod (och före varje verktygsbyte från denna filament i händelse av "
+"gcode (och före varje verktygsbyte från denna filament i händelse av "
 "multimaterialskrivare). Observera att du kan använda platshållarvariabler "
 "för alla PrusaSlicer-inställningar. Om du har flera extruderrs bearbetas g-"
 "koden i extruderordning."
